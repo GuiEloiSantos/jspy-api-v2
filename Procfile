@@ -1,1 +1,1 @@
-web: apic start
+web: slc run

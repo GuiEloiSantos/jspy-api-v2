@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongoDB": {
+    "host": "ds163294.mlab.com",
+    "port": 63294,
+    "url": "mongodb://user_get_data:guizin12@ds163294.mlab.com:63294/heroku_klbtcnh9",
+    "database": "heroku_klbtcnh9",
+    "password": "guizin12",
+    "name": "mongoDB",
+    "user": "user_get_data",
+    "connector": "mongodb"
+  }
+}

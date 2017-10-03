@@ -1,5 +1,9 @@
 {
   "loopback-component-explorer": {
-    "mountPath": "/explorer"
+    "mountPath": "/explorer",
+    "apiInfo": {
+      "title": "JSPY API",
+      "description": "API OF JSPY"
+    }
   }
 }
